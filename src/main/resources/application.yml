@@ -1,10 +1,10 @@
 spring:
   application:
-    name: test-ahmed-rabbit-mq-client
+    name: test-ahmed-rabbit-mq-client2
   rabbitmq:
     host: localhost
     port: 5672
-    username: ahmed
-    password: ahmed
+    #username: ahmed
+    #password: ahmed
 server:
-  port: 8082   
+  port: 8084
